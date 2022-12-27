@@ -1,0 +1,52 @@
+*{
+    padding:0;
+    margin:0
+}
+/* Contacto*/
+
+
+
+.correoContacto{
+    text-decoration: none;
+    font-size: 25px;
+    margin:1px;
+}
+.telefonoContacto{
+    text-decoration: none;
+    font-size: 25px;
+    margin: 3px;
+}
+.asideContacto{
+    margin: 20px;
+}
+.mainContacto{
+    margin: 20px;
+}.informacionpersonal{
+    font-size: 25px;
+    margin-bottom: 40px;
+}
+
+
+/*footer*/
+.footer{
+    margin: 30px;
+}
+.manifiesto{
+    text-decoration: none;
+}
+.polCam{
+    text-decoration: none;
+}
+.envios{
+    text-decoration: none;
+}
+.contactoFooter{
+    text-decoration: none;
+}
+.telefonoFooter{
+    text-decoration: none;
+}
+.correoFooter{
+    text-decoration: none;
+    
+}
