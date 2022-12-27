@@ -9,12 +9,12 @@
 .correoContacto{
     text-decoration: none;
     font-size: 25px;
-    margin:1px;
+    margin:2px;
 }
 .telefonoContacto{
     text-decoration: none;
     font-size: 25px;
-    margin: 3px;
+    margin:0px;
 }
 .asideContacto{
     margin: 20px;
