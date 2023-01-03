@@ -18,16 +18,21 @@
 .card-img{
     height: 600px;
 }
-
+.contenedorSecundarioIndex{
+    background-color: #0A62F7;
+    width: 100%;
+    height: 200px;
+}
 .btn.btn-outline-light.btnSecondaryIndex{
     width: 200px;
     height: 150px;
-    margin: 0px 10px 0px 10px;
+    margin: 20px 10px 20px 10px;
    
 }
-.contenedorSecundarioIndex{
-    background-color: #0A62F7;
+.btn.btn-outline-light.btnSecondaryIndex:hover{
+    transform: scale(1.1);
 }
+
 .ofertaSemanalIndex{
     text-align: center;
     font-size: 70px;
@@ -59,13 +64,16 @@
 }
 .contenedorFooter{
     width: 100%;
-    height: 150px;
+    height: 200px;
     background-color: #0A62F7;
 }
 .btn.btn-outline-light.btnSecondaryIndexFooter{
     width: 250px;
     height: 150px;
-    margin: 0px 35px 0px 35px;
+    margin: 20px 35px 20px 35px;
+}
+.btn.btn-outline-light.btnSecondaryIndexFooter:hover{
+    transform: scale(1.1);
 }
 /*
 .asideInicio{
@@ -119,6 +127,9 @@
     height: 250px;
     margin: 20px;
     
+}
+.card-img-top:hover{
+    transform: scale(1.1);
 }
 .card{
     padding: 10px;
