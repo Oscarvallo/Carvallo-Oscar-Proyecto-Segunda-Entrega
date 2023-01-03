@@ -2,7 +2,93 @@
     padding:0;
     margin:0
 }
+
+/* INICIO*/
+.card.text-bg-dark.cardIndex{
+    margin: 0px;
+    padding: 0px;
+    
+}
+.card-title.inicio{
+    text-align: center;
+    margin-top: 200px;
+    font-size: 70px;
+    color:#0A62F7;
+}
+.card-img{
+    height: 600px;
+}
+
+.btn.btn-outline-light.btnSecondaryIndex{
+    width: 200px;
+    height: 150px;
+    margin: 0px 10px 0px 10px;
+   
+}
+.contenedorSecundarioIndex{
+    background-color: #0A62F7;
+}
+.ofertaSemanalIndex{
+    text-align: center;
+    font-size: 70px;
+    margin: 30px;
+}
+
+
+.card.border-dark.mb-3.index{
+    margin: 10px;
+
+}
+.card-img-top.index{
+    width: 350px;
+    height: 350px;
+}
+.card-title.indexPrecioAntes{
+    text-decoration:line-through;
+    color: red;
+}
+.card-title.indexPrecioDespues{
+    font-size: 40px;
+}
+.card-title.index{
+    font-size: 30px;
+}
+.btn.btn-primary.btnCardIndex{
+    width:350px ;
+    margin: 10px;
+}
+.contenedorFooter{
+    width: 100%;
+    height: 150px;
+    background-color: #0A62F7;
+}
+.btn.btn-outline-light.btnSecondaryIndexFooter{
+    width: 250px;
+    height: 150px;
+    margin: 0px 35px 0px 35px;
+}
+/*
+.asideInicio{
+    background-image: url(../img/bebe-inicio-jpg.jpg);
+    width: 100%;
+    height: 700px;
+    margin:0px 5px 0px 5px;
+    background-repeat: no-repeat;
+
+
+
+
+/* Preguntas Frecuentes*/
+.tituloPreguntasFrecuentes{
+    text-align: center;
+    font-size: 45px;
+}
+.accordion-item{
+    margin: 100px;
+    
+}
 /* Contacto*/
+
 
 
 
@@ -26,6 +112,34 @@
     margin-bottom: 40px;
 }
 
+
+/* Pañales*/
+.card-img-top{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    
+}
+.card{
+    padding: 10px;
+    margin: 5px;
+}
+.card-title{
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+
+
+.btn.btn-primary.btnCard{
+    width: 250px;
+}
+.tituloPañales{
+    font-size: 50px;
+    text-align:center;
+    margin: 20px;
+}
 
 /*footer*/
 .footer{
