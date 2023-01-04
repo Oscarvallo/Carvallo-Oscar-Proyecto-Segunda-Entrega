@@ -116,6 +116,69 @@
 
 
 
+/*Envios*/
+.tituloEnvios{
+    margin: 40px 0px 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 45px;
+
+}
+.parrafoEnvios{
+font-size: 25px;
+}
+.card-body.caba{
+    margin: 5px; 
+    background-color: lightblue; 
+    color: black;
+}
+.subtituloCaba{
+    margin-bottom: 30px;
+    font-size: 35px;
+    
+}
+.parrafoCaba{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.h3Envios{
+    color: orange
+}
+
+.card-body.gba{
+    margin: 5px;
+    background-color: lightblue;
+}
+.subtituloGba{
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+.h4Gba{
+    color: orange;
+}
+.parrafoGba{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    margin: 10px;
+}
+
+
+.card-body.text-center.localidades{
+background-color: lightblue;
+margin: 5px;
+}
+.subtituloLocalidades{
+    margin-bottom: 30px;
+    font-size: 35px;
+}
+.parrafoLocalidades{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    margin:10px
+
+}
+
 
 /* Preguntas Frecuentes*/
 .tituloPreguntasFrecuentes{
@@ -190,7 +253,14 @@
 .footer{
     margin: 30px;
 }
-
+.row.text-center.callToAction{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    
+}
+.btn.btn-primary.footer{
+    width:120px
+}
 .linksFooter{
     font-size: 20px;
     margin: 30px;
