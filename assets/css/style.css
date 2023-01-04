@@ -155,6 +155,10 @@
     margin-left: -20px;
     margin-bottom: 10px;
 }
+
+.btn.btn-primary.contacto{
+    width: 150px;
+}
 .textoContacto{
     font-size: 25px;
 
