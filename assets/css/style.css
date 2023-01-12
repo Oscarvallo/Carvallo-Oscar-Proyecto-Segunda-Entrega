@@ -1,319 +1,620 @@
-*{
-    padding:0;
-    margin:0
+@charset "UTF-8";
+* {
+  padding: 0;
+  margin: 0;
 }
 
-/* INICIO*/
-
-
-.card.text-bg-dark.cardIndex{
-    margin: 0px;
-    padding: 0px;
-    border: none;
-    
+.container-fluid.nav {
+  background-color: #0A62F7;
 }
-.card-title.inicio{
-    text-align: center;
-    margin-top: 200px;
-    font-size: 70px;
-    color:#0A62F7;
+.container-fluid.nav .img-fluid.me-4 {
+  width: 100px;
 }
-.card-img{
+.container-fluid.nav .bi.bi-person-fill {
+  width: 50px;
+  height: 50px;
+}
+.container-fluid.nav .bi.bi-cart4.me-3 {
+  width: 50px;
+  height: 50px;
+}
+.container-fluid.nav .collapse.navbar-collapse.justify-content-center {
+  transition: 1s;
+}
+.container-fluid.nav .dropdown-menu.bback {
+  background-color: #0A62F7;
+}
+
+.card.text-bg-dark.cardIndex {
+  margin: 0px;
+  padding: 0px;
+  border: none;
+}
+.card.text-bg-dark.cardIndex .card-title.inicio {
+  text-align: center;
+  margin-top: 200px;
+  font-size: 70px;
+  color: #0A62F7;
+}
+.card.text-bg-dark.cardIndex .card-img {
+  height: 600px;
+}
+
+.contenedorSecundarioIndex {
+  background-color: #0A62F7;
+  width: 100%;
+  height: 200px;
+  padding-left: 3vh;
+}
+
+.btn.btn-outline-light.btnSecondaryIndex {
+  width: 180px;
+  height: 160px;
+  margin-top: 20px;
+  margin-left: 20px;
+}
+
+.btn.btn-outline-light.btnSecondaryIndex:hover {
+  transform: scale(1.1);
+}
+
+@media (max-width: 1245px) {
+  .contenedorSecundarioIndex {
+    display: row;
+    background-color: #0A62F7;
+    width: 100%;
+    height: 400px;
+  }
+  .btn.btn-outline-light.btnSecondaryIndex {
+    display: column;
+    width: 140px;
+    height: 160px;
+    margin: 20px;
+  }
+}
+@media (max-width: 564px) {
+  .contenedorSecundarioIndex {
+    display: row;
+    background-color: #0A62F7;
+    width: 100%;
     height: 600px;
+  }
+  .btn.btn-outline-light.btnSecondaryIndex {
+    display: column;
+    width: 140px;
+    height: 160px;
+    margin: 20px;
+  }
 }
-.contenedorSecundarioIndex{
-    background-color: #0A62F7;
-    width: 100%;
-    height: 200px;
-}
-.btn.btn-outline-light.btnSecondaryIndex{
-    width: 200px;
-    height: 150px;
-    margin: 20px 10px 20px 10px;
-   
-}
-.btn.btn-outline-light.btnSecondaryIndex:hover{
-    transform: scale(1.1);
+.ofertaSemanalIndex {
+  text-align: center;
+  font-size: 70px;
+  margin: 30px;
 }
 
-.ofertaSemanalIndex{
-    text-align: center;
-    font-size: 70px;
-    margin: 30px;
+.card-group.index {
+  margin: 50px;
+  padding: 20px;
 }
 
+.card.border-dark.mb-3.index {
+  margin: 1px;
+  width: 300px;
+  height: 700px;
+}
+.card.border-dark.mb-3.index .card-img-top.index {
+  width: 300px;
+  height: 300px;
+}
+.card.border-dark.mb-3.index .card-title.indexPrecioAntes {
+  text-decoration: line-through;
+  color: red;
+}
+.card.border-dark.mb-3.index .card-title.indexPrecioDespues {
+  font-size: 40px;
+}
+.card.border-dark.mb-3.index .card-title.index {
+  font-size: 30px;
+}
+.card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
+  width: 250px;
+  margin: 20px;
+}
 
-.card.border-dark.mb-3.index{
+@media (max-width: 1139px) {
+  .card-group.index {
+    margin: 50px;
+    padding: 20px;
+  }
+  .card.border-dark.mb-3.index {
     margin: 1px;
-
-}
-.card-img-top.index{
-    width: 350px;
-    height: 350px;
-}
-.card-title.indexPrecioAntes{
-    text-decoration:line-through;
-    color: red;
-}
-.card-title.indexPrecioDespues{
-    font-size: 40px;
-}
-.card-title.index{
-    font-size: 30px;
-}
-.btn.btn-primary.btnCardIndex{
-    width:350px ;
-    margin: 10px;
-}
-.contenedorFooter{
-    width: 100%;
-    height: 200px;
-    background-color: #0A62F7;
-}
-.btn.btn-outline-light.btnSecondaryIndexFooter{
-    width: 250px;
-    height: 150px;
-    margin: 20px 35px 20px 35px;
-}
-.btn.btn-outline-light.btnSecondaryIndexFooter:hover{
-    transform: scale(1.1);
-}
-/* Pañales*/
-
-.card.border-dark.mb-3{
-    margin: 1px;
-    
-}
-.card-img-top{
+    width: 300px;
+    height: 700px;
+  }
+  .card.border-dark.mb-3.index .card-img-top.index {
     width: 250px;
     height: 250px;
+    margin-left: 10px;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
+    text-decoration: line-through;
+    color: red;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
+    font-size: 40px;
+  }
+  .card.border-dark.mb-3.index .card-title.index {
+    font-size: 30px;
+  }
+  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
+    width: 200px;
     margin: 20px;
-    
+  }
 }
-.card-img-top:hover{
-    transform: scale(1.1);
-}
-.card{
-    padding: 10px;
-    margin: 5px;
-}
-.card-title{
-    text-align: center;
-}
-.card-text{
-    text-align: center;
-}
-
-
-.btn.btn-primary.btnCard{
-    width: 250px;
-}
-.tituloPañales{
-    font-size: 50px;
-    text-align:center;
-    margin: 20px;
-}
-
-
-
-/*Envios*/
-.tituloEnvios{
-    margin: 40px 0px 20px;
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 45px;
-
-}
-.parrafoEnvios{
-font-size: 25px;
-}
-.card-body.caba{
-    margin: 5px; 
-    background-color: lightblue; 
-    color: black;
-}
-.subtituloCaba{
-    margin-bottom: 30px;
-    font-size: 35px;
-    
-}
-.parrafoCaba{
-    font-size: 20px;
-    font-family: 'Times New Roman', Times, serif;
-}
-.h3Envios{
-    color: orange
-}
-
-.card-body.gba{
-    margin: 5px;
-    background-color: lightblue;
-}
-.subtituloGba{
-    margin-bottom: 30px;
-    font-size: 35px;
-}
-.h4Gba{
-    color: orange;
-}
-.parrafoGba{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    text-align: center;
-    margin: 10px;
-}
-
-
-.card-body.text-center.localidades{
-background-color: lightblue;
-margin: 5px;
-}
-.subtituloLocalidades{
-    margin-bottom: 30px;
-    font-size: 35px;
-}
-.parrafoLocalidades{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    text-align: center;
-    margin:10px
-
-}
-
-
-/* Preguntas Frecuentes*/
-.tituloPreguntasFrecuentes{
-    text-align: center;
-    font-size: 45px;
-}
-.accordion-item{
-    margin: 100px;
-    
-}
-/* Contacto*/
-.col.contacto{
-    margin: 20px;
-}
-.tituloContacto{
-    text-align: center;
-}
-.fa-solid.fa-phone.contacto{
-    font-size: 35px; 
-    margin: 2px; 
-}
-.telefonoContactoPrimario{
-    font-size: 35px;
-    text-decoration: none;
-}
-.far.fa-envelope.contacto{
-    font-size: 35px;
-}
-.correoContactoPrimario{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    text-decoration: none;
-}
-.bi.bi-geo-alt{
-    width: 35px;
-    height: 35px;
-    margin-left: -20px;
-    margin-bottom: 10px;
-}
-
-.btn.btn-primary.contacto{
+@media (max-width: 915px) {
+  .card-group.index {
+    margin: 50px;
+    padding: 20px;
+  }
+  .card.border-dark.mb-3.index {
+    margin: 1px;
+    width: 300px;
+    height: 700px;
+  }
+  .card.border-dark.mb-3.index .card-img-top.index {
+    width: 230px;
+    height: 200px;
+    margin-left: 10px;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
+    text-decoration: line-through;
+    color: red;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
+    font-size: 40px;
+  }
+  .card.border-dark.mb-3.index .card-title.index {
+    font-size: 30px;
+  }
+  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
     width: 150px;
-}
-.textoContacto{
-    font-size: 25px;
-
-}
-
-.correoContacto{
-    text-decoration: none;
-    font-size: 25px;
-    margin:2px;
-}
-.telefonoContacto{
-    text-decoration: none;
-    font-size: 25px;
-    margin:0px;
-}
-.asideContacto{
     margin: 20px;
+  }
 }
-.mainContacto{
+@media (max-width: 745px) {
+  .card-group.index {
+    margin: 50px;
+    padding: 20px;
+  }
+  .card.border-dark.mb-3.index {
     margin: 20px;
-}.informacionpersonal{
-    font-size: 25px;
-    margin-bottom: 40px;
+    width: 150px;
+    height: 550px;
+  }
+  .card.border-dark.mb-3.index .card-img-top.index {
+    width: 120px;
+    height: 150px;
+    margin-left: 10px;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
+    text-decoration: line-through;
+    color: red;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
+    font-size: 20px;
+  }
+  .card.border-dark.mb-3.index .card-title.index {
+    font-size: 20px;
+  }
+  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
+    width: 100px;
+    margin-left: 5px;
+  }
+}
+@media (max-width: 575px) {
+  .card-group.index {
+    margin: 50px;
+    padding: 20px;
+  }
+  .card.border-dark.mb-3.index {
+    margin: 1px;
+    border: 30px;
+    width: 300px;
+    height: 700px;
+  }
+  .card.border-dark.mb-3.index .card-img-top.index {
+    width: 250px;
+    height: 250px;
+    margin-left: 10px;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
+    text-decoration: line-through;
+    color: red;
+  }
+  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
+    font-size: 40px;
+  }
+  .card.border-dark.mb-3.index .card-title.index {
+    font-size: 30px;
+  }
+  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
+    width: 200px;
+    margin: 20px;
+  }
+}
+.contenedorFooter {
+  width: 100%;
+  height: 200px;
+  background-color: #0A62F7;
 }
 
-
-
-/*footer*/
-.footer{
-    margin: 30px;
-}
-.row.text-center.callToAction{
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-    
-}
-.btn.btn-primary.footer{
-    width:120px
-}
-.linksFooter{
-    font-size: 20px;
-    margin: 30px;
-    font-family: 'Times New Roman', Times, serif;
-}
-.manifiesto{
-    text-decoration: none;
-    font-size: 20px;
-}
-.polCam{
-    text-decoration: none;
-    font-size: 20px;
-}
-.envios{
-    text-decoration: none;
-    font-size: 20px;
-}
-.contactoLinks{
-    text-decoration: none;
-    font-size: 20px;
+.btn.btn-outline-light.btnSecondaryIndexFooter {
+  width: 250px;
+  height: 150px;
+  margin: 20px 35px 20px 35px;
 }
 
-.contactoFooter{
-    margin: 30px; 
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
+.btn.btn-outline-light.btnSecondaryIndexFooter:hover {
+  transform: scale(1.1);
 }
-.fa-solid.fa-phone{
-    font-size: 25px;
+
+@media (max-width: 1075px) {
+  .contenedorFooter {
+    width: 100%;
+    height: 200px;
+    margin-top: 500px;
+  }
+  .btn.btn-outline-light.btnSecondaryIndexFooter {
+    display: table-column;
+    width: 200px;
+    height: 150px;
+    margin: 20px 25px 10px 25px;
+  }
 }
-.telefonoFooter{
-    font-size: 25px;
-    text-decoration: none;
+.card.border-dark.mb-3 {
+  margin: 1px;
 }
-.far.fa-envelope{
-    font-size: 30px;
+
+.card-img-top {
+  width: 250px;
+  height: 250px;
+  margin: 20px;
 }
-.correoFooter{
-    text-decoration: none;
-    font-size: 25px;
-    
+
+.card-img-top:hover {
+  transform: scale(1.1);
 }
-.ubicacionFooter{
-    font-size: 20px;
-    margin-top: 30px;
-    margin-bottom: 20px; 
-    font-family: 'Times New Roman', Times, serif;
+
+.card {
+  padding: 10px;
+  margin: 5px;
 }
-.fa-brands.fa-facebook{
-    font-size: 30px;
-    margin-top: 20px;
+
+.card-title {
+  text-align: center;
 }
-.fa-brands.fa-instagram{
-    font-size: 30px;
-    margin-top: 20px;
+
+.card-text {
+  text-align: center;
 }
+
+.btn.btn-primary.btnCard {
+  width: 250px;
+}
+
+.tituloPañales {
+  font-size: 50px;
+  text-align: center;
+  margin: 20px;
+}
+
+.tituloPreguntasFrecuentes {
+  text-align: center;
+  font-size: 45px;
+  margin-top: 30px;
+}
+
+.accordion-item {
+  margin: 100px;
+}
+
+.col.contacto {
+  margin: 20px;
+}
+
+.tituloContacto {
+  text-align: center;
+}
+
+.fa-solid.fa-phone.contacto {
+  font-size: 35px;
+  margin: 2px;
+}
+
+.telefonoContactoPrimario {
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.far.fa-envelope.contacto {
+  font-size: 35px;
+}
+
+.correoContactoPrimario {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.bi.bi-geo-alt {
+  width: 35px;
+  height: 35px;
+  margin-left: -20px;
+  margin-bottom: 10px;
+}
+
+.btn.btn-primary.contacto {
+  width: 150px;
+}
+
+.textoContacto {
+  font-size: 25px;
+}
+
+.correoContacto {
+  text-decoration: none;
+  font-size: 25px;
+  margin: 2px;
+}
+
+.telefonoContacto {
+  text-decoration: none;
+  font-size: 25px;
+  margin: 0px;
+}
+
+.asideContacto {
+  margin: 20px;
+}
+
+.mainContacto {
+  margin: 20px;
+}
+
+.informacionpersonal {
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.col.contacto {
+  margin: 20px;
+}
+
+.tituloContacto {
+  text-align: center;
+}
+
+.fa-solid.fa-phone.contacto {
+  font-size: 35px;
+  margin: 2px;
+}
+
+.telefonoContactoPrimario {
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.far.fa-envelope.contacto {
+  font-size: 35px;
+}
+
+.correoContactoPrimario {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 35px;
+  text-decoration: none;
+}
+
+.bi.bi-geo-alt {
+  width: 35px;
+  height: 35px;
+  margin-left: -20px;
+  margin-bottom: 10px;
+}
+
+.btn.btn-primary.contacto {
+  width: 150px;
+}
+
+.textoContacto {
+  font-size: 25px;
+}
+
+.correoContacto {
+  text-decoration: none;
+  font-size: 25px;
+  margin: 2px;
+}
+
+.telefonoContacto {
+  text-decoration: none;
+  font-size: 25px;
+  margin: 0px;
+}
+
+.asideContacto {
+  margin: 20px;
+}
+
+.mainContacto {
+  margin: 20px;
+}
+
+.informacionpersonal {
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+.footer {
+  margin: 30px;
+}
+
+.row.text-center.callToAction {
+  font-size: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.btn.btn-primary.footer {
+  width: 120px;
+}
+
+.linksFooter {
+  font-size: 20px;
+  margin: 30px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.manifiesto {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.polCam {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.envios {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.contactoLinks {
+  text-decoration: none;
+  font-size: 20px;
+}
+
+.contactoFooter {
+  margin: 30px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+}
+
+.fa-solid.fa-phone {
+  font-size: 25px;
+}
+
+.telefonoFooter {
+  font-size: 25px;
+  text-decoration: none;
+}
+
+.far.fa-envelope {
+  font-size: 30px;
+}
+
+.correoFooter {
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.ubicacionFooter {
+  font-size: 20px;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.fa-brands.fa-facebook {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.fa-brands.fa-instagram {
+  font-size: 30px;
+  margin-top: 20px;
+}
+
+.maps {
+  width: 100%;
+  margin: 0px;
+}
+
+.row.text-center.footer {
+  margin-top: 20px;
+}
+
+.tituloEnvios {
+  margin: 40px 0px 20px;
+  font-family: "Times New Roman", Times, serif;
+  font-size: 45px;
+}
+
+.parrafoEnvios {
+  font-size: 25px;
+}
+
+.card-body.caba {
+  margin: 5px;
+  background-color: lightblue;
+  color: black;
+}
+
+.subtituloCaba {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+
+.parrafoCaba {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+}
+
+.h3Envios {
+  color: orange;
+}
+
+.card-body.gba {
+  margin: 5px;
+  background-color: lightblue;
+}
+
+.subtituloGba {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+
+.h4Gba {
+  color: orange;
+}
+
+.parrafoGba {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+.card-body.text-center.localidades {
+  background-color: lightblue;
+  margin: 5px;
+}
+
+.subtituloLocalidades {
+  margin-bottom: 30px;
+  font-size: 35px;
+}
+
+.parrafoLocalidades {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: center;
+  margin: 10px;
+}
+
+/*Navegador*/
+/* INICIO*/
+/* Pañales*/
+/*Envios*/
+/* Preguntas Frecuentes*/
+/* Contacto*/
+/*footer*//*# sourceMappingURL=style.css.map */
