@@ -1,34 +1,43 @@
-.card.border-dark.mb-3{
-    margin: 1px;
-    
-}
-.card-img-top{
-    width: 250px;
-    height: 250px;
-    margin: 20px;
-    
-}
-.card-img-top:hover{
-    transform: scale(1.1);
-}
-.card{
-    padding: 10px;
-    margin: 5px;
-}
-.card-title{
-    text-align: center;
-}
-.card-text{
-    text-align: center;
-}
-
-
-.btn.btn-primary.btnCard{
-    width: 250px;
-}
 .tituloPañales{
     font-size: 50px;
     text-align:center;
     margin: 20px;
 }
+.card-group{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 10px;
+    justify-content: center;
+    
+}
+
+    .card{
+    width: 300px;
+    height: 450px;
+    padding: 10px;
+    margin: 5px;
+    
+    }
+        .card-img-top{
+            width: 200px;
+            height: 200px;
+            margin: 20px 0px 0px 40px;
+            
+        }
+        .card-img-top:hover{
+            transform: scale(1.1);
+        }
+    
+        .card-title{
+            text-align: center;
+        }
+        .card-text{
+            text-align: center;
+        }
+
+
+        .btn.btn-primary.btnCard{
+            width: 200px;
+        }
+
 
