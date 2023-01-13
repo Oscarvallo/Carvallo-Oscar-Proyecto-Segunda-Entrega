@@ -13,13 +13,18 @@
 .container-fluid.nav .bi.bi-person-fill {
   width: 50px;
   height: 50px;
+  color: white;
 }
 .container-fluid.nav .bi.bi-cart4.me-3 {
   width: 50px;
   height: 50px;
+  color: white;
 }
 .container-fluid.nav .collapse.navbar-collapse.justify-content-center {
   transition: 1s;
+}
+.container-fluid.nav .navbar-nav {
+  padding: 20px;
 }
 .container-fluid.nav .dropdown-menu.bback {
   background-color: #0A62F7;
@@ -44,7 +49,8 @@
   background-color: #0A62F7;
   width: 100%;
   height: 200px;
-  padding-left: 3vh;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .btn.btn-outline-light.btnSecondaryIndex {
@@ -72,18 +78,40 @@
     margin: 20px;
   }
 }
-@media (max-width: 564px) {
+@media (max-width: 539px) {
   .contenedorSecundarioIndex {
-    display: row;
     background-color: #0A62F7;
     width: 100%;
     height: 600px;
   }
   .btn.btn-outline-light.btnSecondaryIndex {
-    display: column;
     width: 140px;
     height: 160px;
     margin: 20px;
+  }
+}
+@media (max-width: 359px) {
+  .contenedorSecundarioIndex {
+    background-color: #0A62F7;
+    width: 100%;
+    height: 400px;
+  }
+  .btn.btn-outline-light.btnSecondaryIndex {
+    width: 140px;
+    height: 100px;
+    margin: 10px;
+  }
+}
+@media (max-width: 359px) {
+  .contenedorSecundarioIndex {
+    background-color: #0A62F7;
+    width: 100%;
+    height: 400px;
+  }
+  .btn.btn-outline-light.btnSecondaryIndex {
+    width: 100px;
+    height: 100px;
+    margin: 10px;
   }
 }
 .ofertaSemanalIndex {
@@ -92,153 +120,58 @@
   margin: 30px;
 }
 
-.card-group.index {
-  margin: 50px;
-  padding: 20px;
+.cardIndex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
 
 .card.border-dark.mb-3.index {
-  margin: 1px;
-  width: 300px;
+  margin: 20px;
+  width: 350px;
   height: 700px;
 }
-.card.border-dark.mb-3.index .card-img-top.index {
+
+.card-img-top.index {
   width: 300px;
   height: 300px;
 }
-.card.border-dark.mb-3.index .card-title.indexPrecioAntes {
+
+.card-title.indexPrecioAntes {
   text-decoration: line-through;
   color: red;
 }
-.card.border-dark.mb-3.index .card-title.indexPrecioDespues {
+
+.card-title.indexPrecioDespues {
   font-size: 40px;
 }
-.card.border-dark.mb-3.index .card-title.index {
+
+.card-title.index {
   font-size: 30px;
 }
-.card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
+
+.btn.btn-primary.btnCardIndex {
   width: 250px;
   margin: 20px;
 }
 
-@media (max-width: 1139px) {
-  .card-group.index {
-    margin: 50px;
-    padding: 20px;
+@media (max-width: 371px) {
+  .cardIndex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   .card.border-dark.mb-3.index {
-    margin: 1px;
-    width: 300px;
-    height: 700px;
-  }
-  .card.border-dark.mb-3.index .card-img-top.index {
-    width: 250px;
-    height: 250px;
-    margin-left: 10px;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
-    text-decoration: line-through;
-    color: red;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
-    font-size: 40px;
-  }
-  .card.border-dark.mb-3.index .card-title.index {
-    font-size: 30px;
-  }
-  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
-    width: 200px;
     margin: 20px;
+    width: 350px;
+    height: 600px;
   }
-}
-@media (max-width: 915px) {
-  .card-group.index {
-    margin: 50px;
-    padding: 20px;
-  }
-  .card.border-dark.mb-3.index {
-    margin: 1px;
-    width: 300px;
-    height: 700px;
-  }
-  .card.border-dark.mb-3.index .card-img-top.index {
-    width: 230px;
+  .card-img-top.index {
+    width: 200px;
     height: 200px;
-    margin-left: 10px;
   }
-  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
-    text-decoration: line-through;
-    color: red;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
-    font-size: 40px;
-  }
-  .card.border-dark.mb-3.index .card-title.index {
-    font-size: 30px;
-  }
-  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
+  .btn.btn-primary.btnCardIndex {
     width: 150px;
-    margin: 20px;
-  }
-}
-@media (max-width: 745px) {
-  .card-group.index {
-    margin: 50px;
-    padding: 20px;
-  }
-  .card.border-dark.mb-3.index {
-    margin: 20px;
-    width: 150px;
-    height: 550px;
-  }
-  .card.border-dark.mb-3.index .card-img-top.index {
-    width: 120px;
-    height: 150px;
-    margin-left: 10px;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
-    text-decoration: line-through;
-    color: red;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
-    font-size: 20px;
-  }
-  .card.border-dark.mb-3.index .card-title.index {
-    font-size: 20px;
-  }
-  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
-    width: 100px;
-    margin-left: 5px;
-  }
-}
-@media (max-width: 575px) {
-  .card-group.index {
-    margin: 50px;
-    padding: 20px;
-  }
-  .card.border-dark.mb-3.index {
-    margin: 1px;
-    border: 30px;
-    width: 300px;
-    height: 700px;
-  }
-  .card.border-dark.mb-3.index .card-img-top.index {
-    width: 250px;
-    height: 250px;
-    margin-left: 10px;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioAntes {
-    text-decoration: line-through;
-    color: red;
-  }
-  .card.border-dark.mb-3.index .card-title.indexPrecioDespues {
-    font-size: 40px;
-  }
-  .card.border-dark.mb-3.index .card-title.index {
-    font-size: 30px;
-  }
-  .card.border-dark.mb-3.index .btn.btn-primary.btnCardIndex {
-    width: 200px;
     margin: 20px;
   }
 }
@@ -246,6 +179,8 @@
   width: 100%;
   height: 200px;
   background-color: #0A62F7;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .btn.btn-outline-light.btnSecondaryIndexFooter {
@@ -258,17 +193,51 @@
   transform: scale(1.1);
 }
 
-@media (max-width: 1075px) {
+@media (max-width: 1279px) {
   .contenedorFooter {
-    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
     height: 200px;
-    margin-top: 500px;
+    justify-content: center;
   }
   .btn.btn-outline-light.btnSecondaryIndexFooter {
-    display: table-column;
     width: 200px;
     height: 150px;
-    margin: 20px 25px 10px 25px;
+    margin: 20px 35px 20px 35px;
+  }
+}
+@media (max-width: 1079px) {
+  .contenedorFooter {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    justify-content: center;
+  }
+}
+@media (max-width: 539px) {
+  .contenedorFooter {
+    display: flex;
+    flex-wrap: wrap;
+    height: 400px;
+    justify-content: center;
+  }
+  .btn.btn-outline-light.btnSecondaryIndexFooter {
+    width: 150px;
+    height: 150px;
+    margin: 20px 10px 10px 10px;
+  }
+}
+@media (max-width: 339px) {
+  .contenedorFooter {
+    display: flex;
+    flex-wrap: wrap;
+    height: 650px;
+    justify-content: center;
+  }
+  .btn.btn-outline-light.btnSecondaryIndexFooter {
+    width: 150px;
+    height: 100px;
+    margin: w0px 10px 10px 10px;
   }
 }
 .card.border-dark.mb-3 {
