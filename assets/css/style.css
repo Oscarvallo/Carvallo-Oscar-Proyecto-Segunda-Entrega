@@ -423,17 +423,27 @@
   margin-bottom: 40px;
 }
 
-.footer {
+.row.text-center.callToAction {
+  font-size: 40px;
+  font-family: "Times New Roman", Times, serif;
   margin: 30px;
 }
 
-.row.text-center.callToAction {
+.placeholderIndex {
   font-size: 30px;
-  font-family: "Times New Roman", Times, serif;
 }
 
 .btn.btn-primary.footer {
   width: 120px;
+}
+
+.footerMain {
+  background-color: #0A62F7;
+  color: white;
+  width: 100%;
+  height: 300px;
+  margin: 0px;
+  padding: 20px;
 }
 
 .linksFooter {
@@ -445,21 +455,25 @@
 .manifiesto {
   text-decoration: none;
   font-size: 20px;
+  color: white;
 }
 
 .polCam {
   text-decoration: none;
   font-size: 20px;
+  color: white;
 }
 
 .envios {
   text-decoration: none;
   font-size: 20px;
+  color: white;
 }
 
 .contactoLinks {
   text-decoration: none;
   font-size: 20px;
+  color: white;
 }
 
 .contactoFooter {
@@ -475,6 +489,7 @@
 .telefonoFooter {
   font-size: 25px;
   text-decoration: none;
+  color: white;
 }
 
 .far.fa-envelope {
@@ -484,6 +499,7 @@
 .correoFooter {
   text-decoration: none;
   font-size: 25px;
+  color: white;
 }
 
 .ubicacionFooter {
@@ -504,14 +520,42 @@
 }
 
 .maps {
-  width: 100%;
-  margin: 0px;
+  width: 300px;
+  margin: 20px 20px 10px;
 }
 
 .row.text-center.footer {
   margin-top: 20px;
 }
 
+@media (max-width: 681px) {
+  .footerMain {
+    background-color: #0A62F7;
+    color: white;
+    width: 100%;
+    height: 600px;
+    margin: 0px;
+  }
+}
+@media (max-width: 366px) {
+  .footerMain {
+    background-color: #0A62F7;
+    color: white;
+    width: 100%;
+    height: 600px;
+    margin: 0px;
+  }
+  .maps {
+    width: 150px;
+    margin: 20px 20px 10px;
+  }
+}
+@media (max-width: 317px) {
+  .footerMain {
+    width: 100%;
+    height: 780px;
+  }
+}
 .tituloEnvios {
   margin: 40px 0px 20px;
   font-family: "Times New Roman", Times, serif;
