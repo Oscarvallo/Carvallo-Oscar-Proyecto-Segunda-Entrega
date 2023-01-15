@@ -73,6 +73,15 @@
   justify-content: center;
 }
 
+/*Footer*/
+.btn.btn-primary.footer {
+  width: 120px;
+  background-color: #0A62F7;
+}
+.btn.btn-primary.footer:hover {
+  background-color: #4C9FE6;
+}
+
 .filtroProductos {
   display: flex;
   background-color: #4C9FE6;
@@ -150,7 +159,6 @@
   margin-top: 20px;
   margin-left: 20px;
 }
-
 .btn.btn-outline-light.btnSecondaryIndex:hover {
   transform: scale(1.1);
 }
@@ -241,11 +249,6 @@
 }
 
 @media (max-width: 371px) {
-  .cardIndex {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-  }
   .card.border-dark.mb-3.index {
     margin: 20px;
     width: 350px;
@@ -408,73 +411,8 @@
 .btn.btn-primary.contacto {
   width: 150px;
 }
-
-.textoContacto {
-  font-size: 25px;
-}
-
-.correoContacto {
-  text-decoration: none;
-  font-size: 25px;
-  margin: 2px;
-}
-
-.telefonoContacto {
-  text-decoration: none;
-  font-size: 25px;
-  margin: 0px;
-}
-
-.asideContacto {
-  margin: 20px;
-}
-
-.mainContacto {
-  margin: 20px;
-}
-
-.informacionpersonal {
-  font-size: 25px;
-  margin-bottom: 40px;
-}
-
-.col.contacto {
-  margin: 20px;
-}
-
-.tituloContacto {
-  text-align: center;
-}
-
-.fa-solid.fa-phone.contacto {
-  font-size: 35px;
-  margin: 2px;
-}
-
-.telefonoContactoPrimario {
-  font-size: 35px;
-  text-decoration: none;
-}
-
-.far.fa-envelope.contacto {
-  font-size: 35px;
-}
-
-.correoContactoPrimario {
-  font-family: "Times New Roman", Times, serif;
-  font-size: 35px;
-  text-decoration: none;
-}
-
-.bi.bi-geo-alt {
-  width: 35px;
-  height: 35px;
-  margin-left: -20px;
-  margin-bottom: 10px;
-}
-
-.btn.btn-primary.contacto {
-  width: 150px;
+.btn.btn-primary.contacto:hover {
+  background-color: #4C9FE6;
 }
 
 .textoContacto {
@@ -516,10 +454,6 @@
   font-size: 30px;
 }
 
-.btn.btn-primary.footer {
-  width: 120px;
-}
-
 .footerMain {
   background-color: #0A62F7;
   color: white;
@@ -540,11 +474,17 @@
   font-size: 20px;
   color: white;
 }
+.manifiesto:hover {
+  color: bisque;
+}
 
 .polCam {
   text-decoration: none;
   font-size: 20px;
   color: white;
+}
+.polCam:hover {
+  color: bisque;
 }
 
 .envios {
@@ -552,11 +492,17 @@
   font-size: 20px;
   color: white;
 }
+.envios:hover {
+  color: bisque;
+}
 
 .contactoLinks {
   text-decoration: none;
   font-size: 20px;
   color: white;
+}
+.contactoLinks:hover {
+  color: bisque;
 }
 
 .contactoFooter {
@@ -574,6 +520,9 @@
   text-decoration: none;
   color: white;
 }
+.telefonoFooter:hover {
+  color: bisque;
+}
 
 .far.fa-envelope {
   font-size: 30px;
@@ -583,6 +532,9 @@
   text-decoration: none;
   font-size: 25px;
   color: white;
+}
+.correoFooter:hover {
+  color: bisque;
 }
 
 .ubicacionFooter {

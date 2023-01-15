@@ -32,10 +32,11 @@
         margin-top: 20px;
         margin-left: 20px;
     
-    }
-    .btn.btn-outline-light.btnSecondaryIndex:hover{
+ 
+        &:hover{
         transform: scale(1.1);
     }
+}
 
 
     @media(max-width: 1245px) {
@@ -136,10 +137,7 @@
     }
 
 @media(max-width:371px){
-    .cardIndex{
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;}
+
 
         .card.border-dark.mb-3.index{
             margin: 20px;

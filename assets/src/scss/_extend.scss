@@ -20,3 +20,11 @@
     flex-wrap: wrap;
     justify-content: center;
 }
+/*Footer*/
+%btnFooter{
+    width:120px;
+    background-color: $colorprimary;
+    &:hover{
+        background-color: $colorfiltro;
+    }
+}
