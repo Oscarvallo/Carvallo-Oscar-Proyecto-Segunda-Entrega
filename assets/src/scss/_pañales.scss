@@ -38,6 +38,11 @@
 
         .btn.btn-primary.btnCard{
             width: 200px;
+            background-color: $colorprimary;
         }
+        .btn.btn-primary.btnCard:hover{
+            background-color: $colorfiltro;
+        }
+        
 
-
+       
