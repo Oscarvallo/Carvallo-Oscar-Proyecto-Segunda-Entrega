@@ -1,3 +1,5 @@
+
+
 .card.text-bg-dark.cardIndex{
     margin: 0px;
     padding: 0px;
@@ -105,14 +107,12 @@
 
 
 .cardIndex{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
+  @extend%cardIndex
 }
 .card.border-dark.mb-3.index{
     margin: 20px;
     width: 350px;
-    height: 700px;}
+    height: 600px;}
 
     
     .card-img-top.index{

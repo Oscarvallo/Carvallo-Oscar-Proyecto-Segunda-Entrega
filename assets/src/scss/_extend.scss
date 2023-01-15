@@ -1,0 +1,22 @@
+
+/* Filtro Pañales*/
+%btnFiltro{ 
+    width: 120px;
+    height: 30px;
+    margin-top: 125px;
+    margin-right: 20px;
+    border:hidden;
+    border-radius: 5px;}
+/* Tarjeta Pañales*/
+%card{
+    width: 300px;
+    height: 450px;
+    padding: 10px;
+    margin: 5px;
+}
+/* Tarjeta de Inicio*/
+%cardIndex{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

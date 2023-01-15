@@ -45,6 +45,15 @@
 
 
     .dropdown-menu.bback{
-        background-color:#0A62F7
+        background-color:$colorprimary;
+      
+    
+}
+.dropdown-item{
+    background-color: $colorprimary;
+    &:hover{
+        background-color: $colorfiltro;
+    }
+
 }
 }

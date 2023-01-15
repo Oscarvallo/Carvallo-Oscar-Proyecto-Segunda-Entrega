@@ -8,7 +8,8 @@
     height: 300px;
     list-style: none;
     overflow: hidden;
-    
+    padding: 20px;
+
 
     .lista{
         list-style: none;
@@ -30,26 +31,24 @@
     
     text-align: center;
     font-size: 25px;
+   
 }
    
     .Cantidad{
     text-align: center;
+  
     font-size: 25px;
    
 }
 
     .btnFiltro {
-    width: 120px;
-    height: 30px;
-    margin-top: 125px;
-    margin-right: 20px;
-    border:hidden;
-    border-radius: 5px;
+   @extend%btnFiltro;
     
 }
     .btnFiltro:hover{
     background-color: $colorprimary;
-}
+        }
+    
 }
 @media(max-width: 815px){
     .filtroProductos{

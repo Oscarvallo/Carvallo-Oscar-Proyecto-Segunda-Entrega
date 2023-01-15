@@ -41,6 +41,37 @@
 .container-fluid.nav .dropdown-menu.bback {
   background-color: #0A62F7;
 }
+.container-fluid.nav .dropdown-item {
+  background-color: #0A62F7;
+}
+.container-fluid.nav .dropdown-item:hover {
+  background-color: #4C9FE6;
+}
+
+/* Filtro Pañales*/
+.filtroProductos .btnFiltro {
+  width: 120px;
+  height: 30px;
+  margin-top: 125px;
+  margin-right: 20px;
+  border: hidden;
+  border-radius: 5px;
+}
+
+/* Tarjeta Pañales*/
+.card {
+  width: 300px;
+  height: 450px;
+  padding: 10px;
+  margin: 5px;
+}
+
+/* Tarjeta de Inicio*/
+.cardIndex {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
 
 .filtroProductos {
   display: flex;
@@ -52,6 +83,7 @@
   height: 300px;
   list-style: none;
   overflow: hidden;
+  padding: 20px;
 }
 .filtroProductos .lista {
   list-style: none;
@@ -71,14 +103,6 @@
 .filtroProductos .Cantidad {
   text-align: center;
   font-size: 25px;
-}
-.filtroProductos .btnFiltro {
-  width: 120px;
-  height: 30px;
-  margin-top: 125px;
-  margin-right: 20px;
-  border: hidden;
-  border-radius: 5px;
 }
 .filtroProductos .btnFiltro:hover {
   background-color: #0A62F7;
@@ -187,16 +211,10 @@
   margin: 30px;
 }
 
-.cardIndex {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-}
-
 .card.border-dark.mb-3.index {
   margin: 20px;
   width: 350px;
-  height: 700px;
+  height: 600px;
 }
 
 .card-img-top.index {
@@ -320,37 +338,25 @@
   justify-content: center;
 }
 
-.card {
-  width: 300px;
-  height: 450px;
-  padding: 10px;
-  margin: 5px;
-}
-
-.card-img-top {
+.card .card-img-top {
   width: 200px;
   height: 200px;
   margin: 20px 0px 0px 40px;
 }
-
-.card-img-top:hover {
+.card .card-img-top:hover {
   transform: scale(1.1);
 }
-
-.card-title {
+.card .card-title {
   text-align: center;
 }
-
-.card-text {
+.card .card-text {
   text-align: center;
 }
-
-.btn.btn-primary.btnCard {
+.card .btn.btn-primary.btnCard {
   width: 200px;
   background-color: #0A62F7;
 }
-
-.btn.btn-primary.btnCard:hover {
+.card .btn.btn-primary.btnCard:hover {
   background-color: #4C9FE6;
 }
 
