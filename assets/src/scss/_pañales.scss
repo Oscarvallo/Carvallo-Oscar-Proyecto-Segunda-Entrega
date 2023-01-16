@@ -1,3 +1,31 @@
+.contenedorPrincipalPañales{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-areas: "navegador navegador navegador navegador"
+                         "aside     main      main      main"
+                         "aside     main      main      main"
+                         "aside     main      main      main"
+                         "footer    footer    footer    footer";
+}
+.aside{
+    grid-area: aside;
+}
+.main{
+    grid-area: main;
+}
+.navegador{
+    grid-area: navegador;
+}
+.footer{
+    grid-area: footer;
+}
+@media(max-width:623px){ 
+    .contenedorPrincipalPañales{
+        display: block;
+
+}
+}
+
 .tituloPañales{
     font-size: 50px;
     text-align:center;
