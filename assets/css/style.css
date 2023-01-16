@@ -275,6 +275,7 @@
   background-color: #0A62F7;
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .btn.btn-outline-light.btnSecondaryIndexFooter {
