@@ -11,8 +11,8 @@
     
 }
 
-    .card{
-       @extend%card;
+.card{
+    @extend%card;
         .card-img-top{
             width: 200px;
             height: 200px;
@@ -35,6 +35,8 @@
         .btn.btn-primary.btnCard{
             width: 200px;
             background-color: $colorprimary;
+            margin-left: 20px;
+          
         
          &:hover{
             background-color: $colorfiltro;

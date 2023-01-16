@@ -9,10 +9,12 @@
 
     .card-title.inicio{
         text-align: center;
-        margin-top: 200px;
+        margin-top: 20px;
         font-size: 70px;
-        color:$colorprimary;
+        color:$colorfooter;
+        opacity: 70%;
     }
+  
     .card-img{
         height: 600px;
     }
@@ -113,12 +115,15 @@
 .card.border-dark.mb-3.index{
     margin: 20px;
     width: 350px;
-    height: 600px;}
+    height: 500px;}
 
     
     .card-img-top.index{
     width: 250px;
     height: 250px;
+    padding-left: 50px;
+  
+
   
     }      
     .card-title.indexPrecioAntes{
@@ -134,6 +139,9 @@
     .btn.btn-primary.btnCardIndex{
     width:250px ;
     margin: 20px;
+    &:hover{
+        background-color: $colorfiltro;
+    }
     }
 
 @media(max-width:371px){
@@ -142,17 +150,18 @@
         .card.border-dark.mb-3.index{
             margin: 20px;
             width: 350px;
-            height: 600px;
+            height: 500px;
         }
 
             .card-img-top.index{
                 width: 200px;
                 height: 200px;
+                padding-left: 0px;
             }
             .btn.btn-primary.btnCardIndex{
                 
             width:150px ;
-            margin: 20px;
+            margin-left: 50px;
             }
 }
 

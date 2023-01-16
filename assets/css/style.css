@@ -89,7 +89,7 @@
   flex-direction: row;
   justify-content: space-between;
   width: 100%;
-  height: 300px;
+  height: 350px;
   list-style: none;
   overflow: hidden;
   padding: 20px;
@@ -137,9 +137,10 @@
 }
 .card.text-bg-dark.cardIndex .card-title.inicio {
   text-align: center;
-  margin-top: 200px;
+  margin-top: 20px;
   font-size: 70px;
-  color: #0A62F7;
+  color: white;
+  opacity: 70%;
 }
 .card.text-bg-dark.cardIndex .card-img {
   height: 600px;
@@ -222,12 +223,13 @@
 .card.border-dark.mb-3.index {
   margin: 20px;
   width: 350px;
-  height: 600px;
+  height: 500px;
 }
 
 .card-img-top.index {
   width: 250px;
   height: 250px;
+  padding-left: 50px;
 }
 
 .card-title.indexPrecioAntes {
@@ -247,20 +249,24 @@
   width: 250px;
   margin: 20px;
 }
+.btn.btn-primary.btnCardIndex:hover {
+  background-color: #4C9FE6;
+}
 
 @media (max-width: 371px) {
   .card.border-dark.mb-3.index {
     margin: 20px;
     width: 350px;
-    height: 600px;
+    height: 500px;
   }
   .card-img-top.index {
     width: 200px;
     height: 200px;
+    padding-left: 0px;
   }
   .btn.btn-primary.btnCardIndex {
     width: 150px;
-    margin: 20px;
+    margin-left: 50px;
   }
 }
 .contenedorFooter {
@@ -358,6 +364,7 @@
 .card .btn.btn-primary.btnCard {
   width: 200px;
   background-color: #0A62F7;
+  margin-left: 20px;
 }
 .card .btn.btn-primary.btnCard:hover {
   background-color: #4C9FE6;
@@ -664,10 +671,6 @@
   margin: 10px;
 }
 
-/*Navegador*/
-/* INICIO*/
-/* Pañales*/
-/*Envios*/
-/* Preguntas Frecuentes*/
-/* Contacto*/
-/*footer*//*# sourceMappingURL=style.css.map */
+.pagination {
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
