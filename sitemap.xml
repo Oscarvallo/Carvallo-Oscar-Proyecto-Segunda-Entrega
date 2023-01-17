@@ -8,34 +8,1389 @@
 
 
 <url>
-  <loc>https://oscarvallo.github.io/PreEntrega2-CarvalloOscar/</loc>
-  <lastmod>2023-01-17T21:25:45+00:00</lastmod>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://oscarvallo.github.io/PreEntrega2-CarvalloOscar/index.html</loc>
-  <lastmod>2023-01-17T21:25:45+00:00</lastmod>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/issues</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://oscarvallo.github.io/PreEntrega2-CarvalloOscar/pages/pa%C3%B1ales.html</loc>
-  <lastmod>2023-01-17T21:25:45+00:00</lastmod>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/pulls</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://oscarvallo.github.io/PreEntrega2-CarvalloOscar/pages/envios.html</loc>
-  <lastmod>2023-01-17T21:25:45+00:00</lastmod>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://oscarvallo.github.io/PreEntrega2-CarvalloOscar/pages/preguntas-frecuentes.html</loc>
-  <lastmod>2023-01-17T21:25:45+00:00</lastmod>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/projects?query=is%3Aopen</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://oscarvallo.github.io/PreEntrega2-CarvalloOscar/pages/contacto.html</loc>
-  <lastmod>2023-01-17T21:25:45+00:00</lastmod>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/security</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
   <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/042a7bc5430a4752b8ff5ccef31258773af56e7f</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/36e05334cf5d9fac785a834f1921eb512f11c0cf</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/blob/master/index.html</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/releases</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/compare</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/workflows/pages/pages-build-deployment</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943573596</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943568343</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943417800</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926297228</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926113102</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926050480</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926041957</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925315706</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925050228</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3907652909</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3906778169</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834601104</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834575914</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834566855</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834561613</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834463196</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834417987</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834222195</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834071032</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833626326</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833350112</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833274334</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833238542</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790839400</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790798952</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/security/policy</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/security/advisories</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/a4239ad7fd942cb36ba664c6dc213a15657c3279</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/blob/36e05334cf5d9fac785a834f1921eb512f11c0cf/index.html</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/find/master</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels?sort=name-asc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels?sort=name-desc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels?sort=count-desc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels?sort=count-asc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/bug</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/documentation</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/duplicate</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/enhancement</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/good%20first%20issue</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/help%20wanted</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/invalid</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/question</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/labels/wontfix</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=due_date&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=completeness&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=title&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=count&amp;state=open</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches?query=sort%3Aaccessed-desc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches?query=sort%3Aaccessed-asc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches?query=sort%3Acreated-desc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches?query=sort%3Acreated-asc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches?query=sort%3Asize-desc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/caches?query=sort%3Asize-asc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943573596/jobs/6748552478</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943573596/jobs/6748559515</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943573596/jobs/6748559648</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943573596/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943568343/jobs/6748540679</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943568343/jobs/6748548963</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943568343/jobs/6748548757</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943568343/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943417800/jobs/6748220489</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943417800/jobs/6748230930</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943417800/jobs/6748231168</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3943417800/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926297228/jobs/6711881712</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926297228/jobs/6711886566</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926297228/jobs/6711886422</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926297228/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926113102/jobs/6711534463</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926113102/jobs/6711539505</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926113102/jobs/6711539553</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926113102/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/7276b82a6b5a09227369f6e88db24f780c0dad3f</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926050480/jobs/6711415709</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926050480/jobs/6711419487</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926050480/jobs/6711419544</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926050480/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/cb27197fcb3c1fe48f4bedac1240518e04fa3980</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926041957/jobs/6711399755</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926041957/jobs/6711406608</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926041957/jobs/6711406552</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3926041957/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/eccaa9790767b54213739282fb96a0ca1fdd1be5</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925315706/jobs/6710154825</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925315706/jobs/6710158426</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925315706/jobs/6710158331</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925315706/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/09478170f983c2f86206c5acbaf898f3c8501699</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925050228/jobs/6709707212</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925050228/jobs/6709709776</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925050228/jobs/6709709797</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3925050228/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/dffed299288a86cc25997392228f09d2f7907077</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3907652909/jobs/6677094491</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3907652909/jobs/6677101640</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3907652909/jobs/6677101759</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3907652909/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/fa69bb2dc4c8e2678dc1ce37b05bb198129aa612</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3906778169/jobs/6675312154</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3906778169/jobs/6675320637</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3906778169/jobs/6675320746</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3906778169/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/98b97232daaed8dc7a3f409154d567e58824b0ec</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834601104/jobs/6527139731</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834601104/jobs/6527145930</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834601104/jobs/6527145995</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834601104/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/82a7400d11b62c6bc17bc72417d2787420a57fe8</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834575914/jobs/6527094662</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834575914/jobs/6527100756</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834575914/jobs/6527100846</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834575914/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/4c980902d94e4a9ac5015c44d7cf12755680f708</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834566855/jobs/6527080155</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834566855/jobs/6527085519</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834566855/jobs/6527085607</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834566855/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/86faa09ed7de90077d0f32434d3500dde291c8d4</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834561613/jobs/6527070417</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834561613/jobs/6527075514</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834561613/jobs/6527075594</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834561613/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/30b13ec4ddaeef783f159c59b481d25423f4a304</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834463196/jobs/6526890978</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834463196/jobs/6526895265</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834463196/jobs/6526895184</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834463196/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/9d6b542712c49d7dcf6f3959deb459c79d96a5df</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834417987/jobs/6526801539</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834417987/jobs/6526807572</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834417987/jobs/6526807666</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834417987/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/020375ce68d241c7038b61bbf94ca479552e9ab0</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834222195/jobs/6526417567</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834222195/jobs/6526422222</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834222195/jobs/6526422304</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834222195/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/ba436cf3a4ba50babc5cc950da2ff0dcde8375ab</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834071032/jobs/6526115117</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834071032/jobs/6526121445</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834071032/jobs/6526121319</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3834071032/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/0d6ca4cd7b26262f610cd2de5cc9bd961cd3abb6</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833626326/jobs/6525268986</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833626326/jobs/6525273557</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833626326/jobs/6525273405</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833626326/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/0e3a18079aa7027c452b3a1d0295e9197efba236</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833350112/jobs/6524718763</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833350112/jobs/6524726442</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833350112/jobs/6524726266</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833350112/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/9ce9c0b906be33d571edf2b96e50209e1d372b6a</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833274334/jobs/6524558247</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833274334/jobs/6524566068</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833274334/jobs/6524566185</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833274334/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/d7cc9c0b6e5c1101a08478865789d7b76f98fed6</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833238542/jobs/6524477216</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833238542/jobs/6524485897</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833238542/jobs/6524485751</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3833238542/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/69806e1f05c56b3a63bce65120a16d6ee503f2c6</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790839400/jobs/6445790148</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790839400/jobs/6445794555</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790839400/jobs/6445794656</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790839400/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/baed3729f88f2cdaab5a789f8be006662ecafd8e</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790798952/jobs/6445713788</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790798952/jobs/6445718436</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790798952/jobs/6445718474</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790798952/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/779204c1a1835027f4bcba4faca01391dc105b6b</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790742514</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790622227</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790611584</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790574120</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790516397</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790505007</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790479206</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790410593</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790372564</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790337934</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790286007</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790234298</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/find/36e05334cf5d9fac785a834f1921eb512f11c0cf</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=due_date&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=completeness&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=title&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=desc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/milestones?direction=asc&amp;sort=count&amp;state=closed</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/e1b3118d37dd9722d1e9db4a1dae8b8e496ee00b</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/c8abb8ca6cb7fe84fabaacc2aefc90ba38ecd92a</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790742514/jobs/6445607503</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790742514/jobs/6445613632</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790742514/jobs/6445613477</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790742514/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790622227/jobs/6445371188</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790622227/jobs/6445374209</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790622227/jobs/6445374259</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790622227/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/5fe8170902b458e84ef5b8c4d9d395dfff6f898f</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790611584/jobs/6445353162</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790611584/jobs/6445356427</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790611584/jobs/6445356354</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790611584/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/f5e217bf8344276e6df52d27bba3c33405d4b3fc</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790574120/jobs/6445288875</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790574120/jobs/6445291912</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790574120/jobs/6445291967</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790574120/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/d8d177e9df254160f6960af337a4bb894e0ec2fd</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790516397/jobs/6445195320</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790516397/jobs/6445198317</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790516397/jobs/6445198383</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790516397/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/d1d10b514f846cafe8035a87b1a798378605e272</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790505007/jobs/6445176668</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790505007/jobs/6445180574</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790505007/jobs/6445180651</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790505007/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/6db5e343ef0bf5a9d967570c286eb5bdf87d6252</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790479206/jobs/6445134130</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790479206/jobs/6445138502</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790479206/jobs/6445138405</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790479206/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/4648da3964a35b8ec5d1612e27ac2d02a923bb7b</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790410593/jobs/6445011490</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790410593/jobs/6445014230</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790410593/jobs/6445014185</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790410593/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/f3f5f1cdc63a5aea4441610da8f53e4ca08edb5a</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790372564/jobs/6444942731</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790372564/jobs/6444946281</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790372564/jobs/6444946339</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790372564/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790337934/jobs/6444880990</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790337934/jobs/6444885392</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790337934/jobs/6444885454</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790337934/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/97be90bb719cc88e3375c193fa04c6129188a611</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790286007/jobs/6444791678</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790286007/jobs/6444795703</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790286007/jobs/6444795771</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790286007/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/fb00a3e01ba7f3fd87db57807128de07ed0ab8bf</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790234298/jobs/6444700889</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790234298/jobs/6444706064</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790234298/jobs/6444706178</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/actions/runs/3790234298/usage</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.41</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/8582d8fae574cb7ef3c83f78f7c3fb278291dd2e</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.33</priority>
+</url>
+<url>
+  <loc>https://github.com/Oscarvallo/PreEntrega3-CarvalloOscar/commit/5f44b9a527caa31561245c0572c616453bab4762</loc>
+  <lastmod>2023-01-17T21:58:52+00:00</lastmod>
+  <priority>0.26</priority>
 </url>
 
 
