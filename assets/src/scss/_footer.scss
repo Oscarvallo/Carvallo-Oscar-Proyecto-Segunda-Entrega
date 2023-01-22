@@ -1,16 +1,33 @@
 
 
 .row.text-center.callToAction{
+    width: 100%;
     font-size: 40px;
     font-family: 'Times New Roman', Times, serif;
-    margin: 30px;
-    
+    margin: 30px 0px 30px 0px;
+    padding-right: 0px;
+    padding: 0%;
+ 
 }
+    .h3footer{
+       font-size: 40px;
+       padding: 0%;
+       font-family:Georgia, 'Times New Roman', Times, serif;
+       
+    }
+
+    
+
     .placeholderIndex{
         font-size: 30px;
     }
     .btn.btn-primary.footer{
          @extend%btnFooter
+    }
+     
+    .placeholderIndex{
+        width: 250px;
+        font-size: 20px;
     }
 .footerMain{
     background-color: $colorprimary;
@@ -102,11 +119,26 @@
         margin-bottom: 20px; 
         font-family: 'Times New Roman', Times, serif;
     }
+    .row.text-center.footer{
+        padding-right: 0%;
+        width: 100%;
+    }
+    
+        .h4footer{
+            margin-top: 20px;
+            padding-right: 0%;
+            font-family:Georgia, 'Times New Roman', Times, serif}
+        
     .fa-brands.fa-facebook{
         font-size: 30px;
         margin-top: 20px;
     }
-    .fa-brands.fa-instagram{
+    .col.text-start{
+        width: 100%;
+        padding: 0%;
+    }
+
+        .fa-brands.fa-instagram{
         font-size: 30px;
         margin-top: 20px;
     }
@@ -114,9 +146,8 @@
         width: 300px;
         margin: 20px 20px 10px;
     }
-    .row.text-center.footer{
-        margin-top: 20px;
-    }
+
+    
 
     @media(max-width:681px){
         .footerMain{

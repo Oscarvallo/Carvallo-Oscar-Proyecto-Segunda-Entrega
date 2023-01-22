@@ -7,6 +7,9 @@
 .container-fluid.nav {
   background-color: #0A62F7;
 }
+.container-fluid.nav .navbar-toggler {
+  margin-left: 20px;
+}
 .container-fluid.nav .img-fluid.me-4 {
   width: 150px;
   justify-content: center;
@@ -50,10 +53,11 @@
 
 /* Filtro Pañales*/
 .filtroProductos .btnFiltro {
-  width: 120px;
+  width: 150px;
   height: 30px;
-  margin-top: 125px;
-  margin-right: 20px;
+  margin-top: 5px;
+  margin-left: 30px;
+  margin-bottom: 10px;
   border: hidden;
   border-radius: 5px;
 }
@@ -88,7 +92,7 @@
   flex-direction: row;
   justify-content: space-between;
   width: 300px;
-  height: 97%;
+  height: 96.1%;
   list-style: none;
   overflow: hidden;
   padding: 20px;
@@ -118,8 +122,13 @@
 
 @media (max-width: 623px) {
   .filtroProductos {
-    display: block;
+    display: flex;
+    flex-direction: column;
     width: 100%;
+    height: 1000px;
+    background-color: #4C9FE6;
+    margin: 0px 0px 50px;
+    padding-bottom: 0px;
   }
 }
 .card.text-bg-dark.cardIndex {
@@ -474,13 +483,27 @@
 }
 
 .row.text-center.callToAction {
+  width: 100%;
   font-size: 40px;
   font-family: "Times New Roman", Times, serif;
-  margin: 30px;
+  margin: 30px 0px 30px 0px;
+  padding-right: 0px;
+  padding: 0%;
+}
+
+.h3footer {
+  font-size: 40px;
+  padding: 0%;
+  font-family: Georgia, "Times New Roman", Times, serif;
 }
 
 .placeholderIndex {
   font-size: 30px;
+}
+
+.placeholderIndex {
+  width: 250px;
+  font-size: 20px;
 }
 
 .footerMain {
@@ -573,9 +596,25 @@
   font-family: "Times New Roman", Times, serif;
 }
 
+.row.text-center.footer {
+  padding-right: 0%;
+  width: 100%;
+}
+
+.h4footer {
+  margin-top: 20px;
+  padding-right: 0%;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
 .fa-brands.fa-facebook {
   font-size: 30px;
   margin-top: 20px;
+}
+
+.col.text-start {
+  width: 100%;
+  padding: 0%;
 }
 
 .fa-brands.fa-instagram {
@@ -586,10 +625,6 @@
 .maps {
   width: 300px;
   margin: 20px 20px 10px;
-}
-
-.row.text-center.footer {
-  margin-top: 20px;
 }
 
 @media (max-width: 681px) {
