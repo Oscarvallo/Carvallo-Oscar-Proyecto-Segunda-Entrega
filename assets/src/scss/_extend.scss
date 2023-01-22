@@ -1,29 +1,10 @@
-
-/* Filtro Pañales*/
-%btnFiltro{ 
-    width: 150px;
-    height: 30px;
-    margin-top: 5px;
-    margin-left: 30px;
-    margin-bottom: 10px;
-    border:hidden;
-    border-radius: 5px;
-    &hover{
-        background-color: $colorprimary;
-        color: white;
-    }
-   
-
-
-}
-    
 /* Tarjeta Pañales*/
 %card{
     width: 300px;
     height: 450px;
     padding: 10px;
     margin: 5px;
-    
+ 
 }
 /* Tarjeta de Inicio*/
 %cardIndex{

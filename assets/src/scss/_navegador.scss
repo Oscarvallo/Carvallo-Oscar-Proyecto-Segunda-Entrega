@@ -1,5 +1,7 @@
 .container-fluid.nav{
-    background-color:#0A62F7 ;
+    background-color:$colorprimary ;
+  
+  
    
    
     .navbar-toggler{
@@ -47,13 +49,18 @@
         padding: 20px;
     }
 
-
+    .nav-link.dropdown-toggle.text-white{
+        display: inherit;
+    }
     .dropdown-menu.bback{
         background-color:$colorprimary;
-      
-    
-}
-}
+        &:hover{
+             display: block;
+        }
+    }
+
+    }
+
 .dropdown-item{
     background-color: $colorprimary;
     &:hover{

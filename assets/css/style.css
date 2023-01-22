@@ -41,8 +41,14 @@
 .container-fluid.nav .navbar-nav {
   padding: 20px;
 }
+.container-fluid.nav .nav-link.dropdown-toggle.text-white {
+  display: inherit;
+}
 .container-fluid.nav .dropdown-menu.bback {
   background-color: #0A62F7;
+}
+.container-fluid.nav .dropdown-menu.bback:hover {
+  display: block;
 }
 
 .dropdown-item {
@@ -52,16 +58,6 @@
   background-color: #4C9FE6;
 }
 
-/* Filtro Pañales*/
-.filtroProductos .btnFiltro {
-  width: 150px;
-  height: 30px;
-  margin-top: 5px;
-  margin-left: 30px;
-  margin-bottom: 10px;
-  border: hidden;
-  border-radius: 5px;
-}
 /* Tarjeta Pañales*/
 .card {
   width: 300px;
@@ -86,47 +82,6 @@
   background-color: #4C9FE6;
 }
 
-.filtroProductos {
-  background-color: #4C9FE6;
-  color: white;
-  flex-direction: row;
-  justify-content: space-between;
-  width: 300px;
-  height: 96.1%;
-  list-style: none;
-  overflow: hidden;
-  padding: 20px;
-}
-.filtroProductos .lista {
-  list-style: none;
-}
-.filtroProductos .Marcas {
-  text-align: center;
-  font-size: 25px;
-}
-.filtroProductos .Tipos {
-  text-align: center;
-  font-size: 25px;
-}
-.filtroProductos .Talles {
-  text-align: center;
-  font-size: 25px;
-}
-.filtroProductos .Cantidad {
-  text-align: center;
-  font-size: 25px;
-}
-@media (max-width: 623px) {
-  .filtroProductos {
-    display: flex;
-    flex-direction: column;
-    width: 100%;
-    height: 1000px;
-    background-color: #4C9FE6;
-    margin: 0px 0px 50px;
-    padding-bottom: 0px;
-  }
-}
 .card.text-bg-dark.cardIndex {
   margin: 0px;
   padding: 0px;
@@ -334,30 +289,8 @@
     margin: w0px 10px 10px 10px;
   }
 }
-.contenedorPrincipalPañales {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr 1fr;
-  grid-template-areas: "navegador navegador navegador navegador" "aside     main      main      main" "aside     main      main      main" "aside     main      main      main" "footer    footer    footer    footer";
-}
-
-.aside {
-  grid-area: aside;
-}
-
-.main {
-  grid-area: main;
-}
-
-.navegador {
-  grid-area: navegador;
-}
-
-.footer {
-  grid-area: footer;
-}
-
 @media (max-width: 623px) {
-  .contenedorPrincipalPañales {
+  .contenedor {
     display: block;
   }
 }
