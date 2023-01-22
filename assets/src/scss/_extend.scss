@@ -8,6 +8,10 @@
     margin-bottom: 10px;
     border:hidden;
     border-radius: 5px;
+    &hover{
+        background-color: $colorprimary;
+        color: white;
+    }
    
 
 

@@ -44,10 +44,11 @@
 .container-fluid.nav .dropdown-menu.bback {
   background-color: #0A62F7;
 }
-.container-fluid.nav .dropdown-item {
+
+.dropdown-item {
   background-color: #0A62F7;
 }
-.container-fluid.nav .dropdown-item:hover {
+.dropdown-item:hover {
   background-color: #4C9FE6;
 }
 
@@ -61,7 +62,6 @@
   border: hidden;
   border-radius: 5px;
 }
-
 /* Tarjeta Pañales*/
 .card {
   width: 300px;
@@ -116,10 +116,6 @@
   text-align: center;
   font-size: 25px;
 }
-.filtroProductos .btnFiltro:hover {
-  background-color: #0A62F7;
-}
-
 @media (max-width: 623px) {
   .filtroProductos {
     display: flex;
