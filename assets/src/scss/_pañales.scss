@@ -1,8 +1,44 @@
-
+.btnFiltro{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border-style:groove;
+    border-width: 1px;
+    margin-left: 38%;
+    margin-right: 10px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    border-color: $colorprimary;
+    color: $colorprimary;
+    &:hover{
+        background-color: $colorfiltro;
+        color:white;
+    }
+   
+}
+.btnDestacados{
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    border-style:groove;
+    border-width: 1px;
+    border-color: $colorprimary;
+    color: $colorprimary;
+    &:hover{
+        background-color: $colorfiltro;
+        color: white;
+    }
+}
 
 @media(max-width:623px){ 
    
-     
+    .btnFiltro{
+        width: 100px;
+        margin-left: 10%;
+    }
+    .btnDestacados{
+        width: 100px;
+    }
     .contenedor{
         display: block;
 
