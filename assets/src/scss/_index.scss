@@ -162,24 +162,25 @@
 
         .card.border-dark.mb-3.index{
             margin: 20px;
-            width: 250px;
+            width: 300px;
             height: 500px;
             justify-content: center;
        
            
             .card-img-top.index.img-fluid{
-                width: 200px;
-                height: 200px;
-                margin-left: 0px;
-                padding-left: 0px;
+                width: 180px;
+                height: 180px;
+               
             }
             .btn.btn-primary.btnCardIndex{
                 
             width:150px ;
-            margin-left: 20px;
+            margin-left: 40px;
+            margin-top: 10px;
+            }
             }
         }
-}
+
 
 .contenedorFooter{
     width: 100%;
