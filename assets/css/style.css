@@ -378,9 +378,11 @@
 }
 .card .card-title {
   text-align: center;
+  font-size: 20px;
 }
 .card .card-text {
   text-align: center;
+  font-size: 15px;
 }
 .card .btn.btn-primary.btnCard {
   width: 200px;
