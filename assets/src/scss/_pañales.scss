@@ -7,7 +7,7 @@
     margin-left: 38%;
     margin-right: 10px;
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 10px;
     border-color: $colorprimary;
     color: $colorprimary;
     &:hover{
@@ -92,13 +92,12 @@
 
         .btn.btn-primary.btnCard{
             width: 200px;
-            background-color: $colorprimary;
+            @include btn($colorprimary,$colorfooter);
             margin-left: 20px;
-          
-        
-         &:hover{
+            &:hover{
             background-color: $colorfiltro;
             }
+            
         }
       
    

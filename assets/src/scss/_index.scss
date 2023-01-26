@@ -34,12 +34,18 @@
         height: 160px;
         margin-top: 20px;
         margin-left: 20px;
+        font-size: 20px;
     
- 
+        
+        
         &:hover{
         transform: scale(1.1);
-    }
+      
+        }
+    
 }
+
+
 }
 
 
@@ -79,8 +85,13 @@
             
                 width: 140px;
                 height: 160px;
-                margin: 20px 
+                margin: 20px;
+               
+       
+
+                
             }
+            
         }
     }
     @media(max-width: 359px) {
@@ -194,6 +205,7 @@
         width: 250px;
         height: 150px;
         margin: 20px 35px 20px 35px;
+        font-size: 20px;
     }
     .btn.btn-outline-light.btnSecondaryIndexFooter:hover{
         transform: scale(1.1);
