@@ -404,73 +404,55 @@
 
 .col.contacto {
   margin: 20px;
+  margin-top: 150px;
 }
-
-.tituloContacto {
+.col.contacto .asideContacto {
+  margin: 20px;
+}
+.col.contacto .tituloContacto {
   text-align: center;
 }
-
-.fa-solid.fa-phone.contacto {
+.col.contacto .fa-solid.fa-phone.contacto {
   font-size: 35px;
   margin: 2px;
 }
-
-.telefonoContactoPrimario {
+.col.contacto .telefonoContactoPrimario {
   font-size: 35px;
   text-decoration: none;
 }
-
-.far.fa-envelope.contacto {
+.col.contacto .far.fa-envelope.contacto {
   font-size: 35px;
 }
-
-.correoContactoPrimario {
+.col.contacto .correoContactoPrimario {
   font-family: "Times New Roman", Times, serif;
   font-size: 35px;
   text-decoration: none;
 }
-
-.bi.bi-geo-alt {
+.col.contacto .bi.bi-geo-alt {
   width: 35px;
   height: 35px;
   margin-left: -20px;
   margin-bottom: 10px;
 }
-
-.btn.btn-primary.contacto {
+.col.contacto .btn.btn-primary.contacto {
   width: 150px;
 }
-.btn.btn-primary.contacto:hover {
+.col.contacto .btn.btn-primary.contacto:hover {
   background-color: #4C9FE6;
 }
-
-.textoContacto {
+.col.contacto .textoContacto {
   font-size: 25px;
 }
 
-.correoContacto {
-  text-decoration: none;
-  font-size: 25px;
-  margin: 2px;
+@media (max-width: 483px) {
+  .col.contacto {
+    margin-top: 20px;
+  }
 }
-
-.telefonoContacto {
-  text-decoration: none;
-  font-size: 25px;
-  margin: 0px;
-}
-
-.asideContacto {
-  margin: 20px;
-}
-
-.mainContacto {
-  margin: 20px;
-}
-
 .informacionpersonal {
   font-size: 25px;
   margin-bottom: 40px;
+  margin-top: 40px;
 }
 
 .row.text-center.callToAction {

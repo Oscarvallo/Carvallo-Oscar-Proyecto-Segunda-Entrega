@@ -1,60 +1,59 @@
 .col.contacto{
     margin: 20px;
-}
-.tituloContacto{
-    text-align: center;
-}
-.fa-solid.fa-phone.contacto{
-    font-size: 35px; 
-    margin: 2px; 
-}
-.telefonoContactoPrimario{
-    font-size: 35px;
-    text-decoration: none;
-}
-.far.fa-envelope.contacto{
-    font-size: 35px;
-}
-.correoContactoPrimario{
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 35px;
-    text-decoration: none;
-}
-.bi.bi-geo-alt{
-    width: 35px;
-    height: 35px;
-    margin-left: -20px;
-    margin-bottom: 10px;
+    margin-top: 150px;
+    .asideContacto{
+        margin: 20px;
+    }
+
+    .tituloContacto{
+        text-align: center;
+    }
+    .fa-solid.fa-phone.contacto{
+        font-size: 35px; 
+        margin: 2px; 
+    }
+    .telefonoContactoPrimario{
+        font-size: 35px;
+        text-decoration: none;
+    }
+    .far.fa-envelope.contacto{
+        font-size: 35px;
+    }
+    .correoContactoPrimario{
+        font-family: 'Times New Roman', Times, serif;
+        font-size: 35px;
+        text-decoration: none;
+    }
+    .bi.bi-geo-alt{
+        width: 35px;
+        height: 35px;
+        margin-left: -20px;
+        margin-bottom: 10px;
+    }
+
+    .btn.btn-primary.contacto{
+        width: 150px;
+        &:hover{
+        background-color: $colorfiltro;
+        }
+    }
+    .textoContacto{
+        font-size: 25px;
+
+    }
+
 }
 
-.btn.btn-primary.contacto{
-    width: 150px;
-    &:hover{
-      background-color: $colorfiltro;
+@media(max-width:483px){
+    .col.contacto{
+        margin-top: 20px;
     }
 }
-.textoContacto{
-    font-size: 25px;
 
-}
 
-.correoContacto{
-    text-decoration: none;
-    font-size: 25px;
-    margin:2px;
-}
-.telefonoContacto{
-    text-decoration: none;
-    font-size: 25px;
-    margin:0px;
-}
-.asideContacto{
-    margin: 20px;
-}
-.mainContacto{
-    margin: 20px;
-}.informacionpersonal{
+.informacionpersonal{
     font-size: 25px;
     margin-bottom: 40px;
+    margin-top: 40px;
 }
 
