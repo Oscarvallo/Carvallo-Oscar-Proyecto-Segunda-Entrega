@@ -75,11 +75,11 @@
 }
 
 /*Footer*/
-.btn.btn-primary.footer {
+.row.text-center.callToAction .btn.btn-primary.footer {
   width: 120px;
   background-color: #0A62F7;
 }
-.btn.btn-primary.footer:hover {
+.row.text-center.callToAction .btn.btn-primary.footer:hover {
   background-color: #4C9FE6;
 }
 
@@ -463,22 +463,16 @@
   padding-right: 0px;
   padding: 0%;
 }
-
-.h3footer {
+.row.text-center.callToAction .h3footer {
   font-size: 40px;
   padding: 0%;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
-
-.placeholderIndex {
+.row.text-center.callToAction .placeholderIndex {
   font-size: 30px;
-}
-
-.placeholderIndex {
   width: 250px;
   font-size: 20px;
 }
-
 .footerMain {
   background-color: #0A62F7;
   color: white;
@@ -487,82 +481,71 @@
   margin: 0px;
   padding: 20px;
 }
-
-.linksFooter {
+.footerMain .linksFooter {
   font-size: 20px;
   margin: 30px;
   font-family: "Times New Roman", Times, serif;
 }
-
-.manifiesto {
+.footerMain .manifiesto {
   text-decoration: none;
   font-size: 20px;
   color: white;
 }
-.manifiesto:hover {
+.footerMain .manifiesto:hover {
   color: bisque;
 }
-
-.polCam {
+.footerMain .polCam {
   text-decoration: none;
   font-size: 20px;
   color: white;
 }
-.polCam:hover {
+.footerMain .polCam:hover {
   color: bisque;
 }
-
-.envios {
+.footerMain .envios {
   text-decoration: none;
   font-size: 20px;
   color: white;
 }
-.envios:hover {
+.footerMain .envios:hover {
   color: bisque;
 }
-
-.contactoLinks {
+.footerMain .contactoLinks {
   text-decoration: none;
   font-size: 20px;
   color: white;
 }
-.contactoLinks:hover {
+.footerMain .contactoLinks:hover {
   color: bisque;
 }
-
-.contactoFooter {
+.footerMain .contactoFooter {
   margin: 30px;
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
 }
-
-.fa-solid.fa-phone {
+.footerMain .fa-solid.fa-phone {
   font-size: 25px;
 }
-
-.telefonoFooter {
+.footerMain .telefonoFooter {
   font-size: 25px;
   text-decoration: none;
   color: white;
 }
-.telefonoFooter:hover {
+.footerMain .telefonoFooter:hover {
   color: bisque;
 }
-
-.far.fa-envelope {
+.footerMain .far.fa-envelope {
   font-size: 30px;
 }
-
-.correoFooter {
+.footerMain .correoFooter {
   text-decoration: none;
   font-size: 25px;
   color: white;
 }
-.correoFooter:hover {
+.footerMain .correoFooter:hover {
   color: bisque;
 }
-
-.ubicacionFooter {
+.footerMain .ubicacionFooter {
   font-size: 20px;
   margin-top: 30px;
   margin-bottom: 20px;
@@ -573,29 +556,24 @@
   padding-right: 0%;
   width: 100%;
 }
-
-.h4footer {
+.row.text-center.footer .h4footer {
   margin-top: 20px;
   padding-right: 0%;
   font-family: Georgia, "Times New Roman", Times, serif;
 }
-
-.fa-brands.fa-facebook {
+.row.text-center.footer .fa-brands.fa-facebook {
   font-size: 30px;
   margin-top: 20px;
 }
-
-.col.text-start {
+.row.text-center.footer .col.text-start {
   width: 100%;
   padding: 0%;
 }
-
-.fa-brands.fa-instagram {
+.row.text-center.footer .fa-brands.fa-instagram {
   font-size: 30px;
   margin-top: 20px;
 }
-
-.maps {
+.row.text-center.footer .maps {
   width: 300px;
   margin: 20px 20px 10px;
 }

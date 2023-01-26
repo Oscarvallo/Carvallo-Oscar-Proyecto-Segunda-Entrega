@@ -8,7 +8,7 @@
     padding-right: 0px;
     padding: 0%;
  
-}
+
     .h3footer{
        font-size: 40px;
        padding: 0%;
@@ -20,15 +20,15 @@
 
     .placeholderIndex{
         font-size: 30px;
+        width: 250px;
+        font-size: 20px;
     }
     .btn.btn-primary.footer{
          @extend%btnFooter
     }
-     
-    .placeholderIndex{
-        width: 250px;
-        font-size: 20px;
-    }
+}
+    
+    
 .footerMain{
     background-color: $colorprimary;
     color: $colorfooter ;
@@ -38,7 +38,7 @@
     padding: 20px;
   
     
-}
+
 
     .linksFooter{
         font-size: 20px;
@@ -118,11 +118,13 @@
         margin-top: 30px;
         margin-bottom: 20px; 
         font-family: 'Times New Roman', Times, serif;
+
     }
+}
     .row.text-center.footer{
         padding-right: 0%;
         width: 100%;
-    }
+   
     
         .h4footer{
             margin-top: 20px;
@@ -146,7 +148,7 @@
         width: 300px;
         margin: 20px 20px 10px;
     }
-
+}
     
 
     @media(max-width:681px){
