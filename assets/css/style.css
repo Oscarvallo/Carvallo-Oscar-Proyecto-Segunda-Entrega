@@ -642,59 +642,48 @@
   margin: 10px;
   border: ridge;
 }
-
-.card-body.caba {
+.cardEnvios .card-body.caba {
   margin: 5px;
   background-color: lightblue;
   color: black;
 }
-
-.subtituloCaba {
+.cardEnvios .subtituloCaba {
   margin-bottom: 30px;
   font-size: 35px;
 }
-
-.parrafoCaba {
+.cardEnvios .parrafoCaba {
   font-size: 20px;
   font-family: "Times New Roman", Times, serif;
 }
-
-.h3Envios {
+.cardEnvios .h3Envios {
   color: orange;
 }
-
-.card-body.gba {
+.cardEnvios .card-body.gba {
   margin: 5px;
   background-color: lightblue;
 }
-
-.subtituloGba {
+.cardEnvios .card-body.gba .subtituloGba {
   margin-bottom: 30px;
   font-size: 35px;
 }
-
-.h4Gba {
+.cardEnvios .card-body.gba .h4Gba {
   color: orange;
 }
-
-.parrafoGba {
+.cardEnvios .card-body.gba .parrafoGba {
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
   text-align: center;
   margin: 10px;
 }
-
-.card-body.text-center.localidades {
+.cardEnvios .card-body.text-center.localidades {
   background-color: lightblue;
   margin: 5px;
 }
-
-.subtituloLocalidades {
+.cardEnvios .card-body.text-center.localidades .subtituloLocalidades {
   margin-bottom: 30px;
   font-size: 35px;
 }
-
-.parrafoLocalidades {
+.cardEnvios .card-body.text-center.localidades .parrafoLocalidades {
   font-family: "Times New Roman", Times, serif;
   font-size: 20px;
   text-align: center;
