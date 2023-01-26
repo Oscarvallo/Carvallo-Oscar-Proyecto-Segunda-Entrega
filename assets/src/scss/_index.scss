@@ -28,7 +28,7 @@
         flex-wrap: wrap;
         
       
-    }
+   
     .btn.btn-outline-light.btnSecondaryIndex{
         width: 180px;
         height: 160px;
@@ -40,6 +40,7 @@
         transform: scale(1.1);
     }
 }
+}
 
 
     @media(max-width: 1245px) {
@@ -49,13 +50,14 @@
             width: 100%;
             height: 400px;
       
-        }
+       
             .btn.btn-outline-light.btnSecondaryIndex{
                 display:column;
                 width: 140px;
                 height: 160px;
                 margin: 20px 
             }
+        }
     }
     
     @media(max-width: 539px) {
@@ -65,13 +67,14 @@
             width: 100%;
             height: 600px;
       
-        }
+       
             .btn.btn-outline-light.btnSecondaryIndex{
             
                 width: 140px;
                 height: 160px;
                 margin: 20px 
             }
+        }
     }
     @media(max-width: 359px) {
         .contenedorSecundarioIndex{
@@ -80,7 +83,7 @@
             width: 100%;
             height: 400px;
       
-        }
+       
             .btn.btn-outline-light.btnSecondaryIndex{
             
                 width: 140px;
@@ -88,6 +91,7 @@
                 margin: 10px 
             }
     }
+}
     @media(max-width: 359px){
         .contenedorSecundarioIndex{
             
@@ -95,12 +99,13 @@
             width: 100%;
             height: 400px;
       
-        }
+        
             .btn.btn-outline-light.btnSecondaryIndex{
             
                 width: 100px;
                 height: 100px;
                 margin: 10px 
+            }
     }
 }
 .ofertaSemanalIndex{
@@ -113,57 +118,60 @@
 .cardIndex{
   @extend%cardIndex
 }
-.card.border-dark.mb-3.index{
+    .card.border-dark.mb-3.index{
     margin: 20px;
     width: 350px;
-    height: 500px;}
+    height: 550px;
+
+  
+        .card-img-top.index.img-fluid{
+        width: 250px;
+        height: 250px;
+        padding-left: 0px;
+    
 
     
-    .card-img-top.index{
-    width: 250px;
-    height: 250px;
-    padding-left: 50px;
-  
-
-  
-    }      
-    .card-title.indexPrecioAntes{
-    text-decoration:line-through;
-    color: $colorsecondary;
+        }      
+        .card-title.indexPrecioAntes{
+        text-decoration:line-through;
+        color: $colorsecondary;
+        }
+        .card-title.indexPrecioDespues{
+        font-size: 40px;
+        }
+        .card-title.index{
+        font-size: 30px;
+        }
+        .btn.btn-primary.btnCardIndex{
+        width:250px ;
+        margin: 20px;
+        &:hover{
+            background-color: $colorfiltro;
+        }
+        }
     }
-    .card-title.indexPrecioDespues{
-    font-size: 40px;
-    }
-    .card-title.index{
-    font-size: 30px;
-    }
-    .btn.btn-primary.btnCardIndex{
-    width:250px ;
-    margin: 20px;
-    &:hover{
-        background-color: $colorfiltro;
-    }
-    }
-
-@media(max-width:371px){
+@media(max-width:438px){
 
 
         .card.border-dark.mb-3.index{
             margin: 20px;
-            width: 350px;
+            width: 250px;
             height: 500px;
-        }
-
-            .card-img-top.index{
+            justify-content: center;
+       
+           
+            .card-img-top.index.img-fluid{
                 width: 200px;
                 height: 200px;
+                margin-left: 0px;
                 padding-left: 0px;
             }
             .btn.btn-primary.btnCardIndex{
                 
             width:150px ;
-            margin-left: 50px;
+            margin-left: 20px;
             }
+        }
 }
 
 .contenedorFooter{
@@ -173,17 +181,18 @@
     display: flex;
     flex-wrap: wrap;
     justify-content:center;
-}
-.btn.btn-outline-light.btnSecondaryIndexFooter{
-    width: 250px;
-    height: 150px;
-    margin: 20px 35px 20px 35px;
-}
-.btn.btn-outline-light.btnSecondaryIndexFooter:hover{
-    transform: scale(1.1);
+
+    .btn.btn-outline-light.btnSecondaryIndexFooter{
+        width: 250px;
+        height: 150px;
+        margin: 20px 35px 20px 35px;
+    }
+    .btn.btn-outline-light.btnSecondaryIndexFooter:hover{
+        transform: scale(1.1);
+    }
 }
 
-@media(max-width:1279px){
+@media(max-width:1350px){
 
     .contenedorFooter{ 
         display: flex;
@@ -191,21 +200,43 @@
         height: 200px;
         justify-content: center;
 
-    }
+   
         .btn.btn-outline-light.btnSecondaryIndexFooter{
             width: 200px;
             height: 150px;
-            margin: 20px 35px 20px 35px;}
+            margin: 20px 25px 20px 25px;}
+        }
 
 }
 @media(max-width:1079px) {
     .contenedorFooter{ 
         display: flex;
         flex-wrap: wrap ;
+        height: 200px;
+        justify-content: center;
+
+    
+    
+        .btn.btn-outline-light.btnSecondaryIndexFooter{
+            width: 200px;
+            height: 150px;
+            margin: 20px 10px 20px 10px;}
+        }
+}
+@media (max-width:900px){
+    .contenedorFooter{ 
+        display: flex;
+        flex-wrap: wrap ;
         height: 400px;
         justify-content: center;
 
-    }
+  
+            .btn.btn-outline-light.btnSecondaryIndexFooter{
+            width: 200px;
+            height: 150px;
+            margin: 20px 10px 20px 10px;}
+        }
+
 }
     @media(max-width:539px){
     .contenedorFooter{ 
@@ -213,24 +244,26 @@
         flex-wrap: wrap ;
         height: 400px;
         justify-content: center;
-    }
+  
         .btn.btn-outline-light.btnSecondaryIndexFooter{
             width: 150px;
             height: 150px;
             margin: 20px 10px 10px 10px;}
+        }
 
 }
-@media(max-width:339px){
-.contenedorFooter{ 
-    display: flex;
-    flex-wrap: wrap ;
-    height: 650px;
-    justify-content: center;
+    @media(max-width:339px){
+        .contenedorFooter{ 
+            display: flex;
+            flex-wrap: wrap ;
+            height: 650px;
+            justify-content: center;
     
+    
+            .btn.btn-outline-light.btnSecondaryIndexFooter{
+                width: 150px;
+                height: 100px;
+                margin: w0px 10px 10px 10px;}
     }
-    .btn.btn-outline-light.btnSecondaryIndexFooter{
-        width: 150px;
-        height: 100px;
-        margin: w0px 10px 10px 10px;}
 
 }
