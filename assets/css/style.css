@@ -119,6 +119,7 @@
 }
 .contenedorSecundarioIndex .btn.btn-outline-light.btnSecondaryIndex:hover {
   transform: scale(1.1);
+  color: #0A62F7;
 }
 
 @media (max-width: 1245px) {
@@ -246,6 +247,7 @@
 }
 .contenedorFooter .btn.btn-outline-light.btnSecondaryIndexFooter:hover {
   transform: scale(1.1);
+  color: #0A62F7;
 }
 
 @media (max-width: 1350px) {
@@ -434,16 +436,10 @@
   text-decoration: none;
 }
 .col.contacto .bi.bi-geo-alt {
-  width: 35px;
+  width: 35wpx;
   height: 35px;
   margin-left: -20px;
   margin-bottom: 10px;
-}
-.col.contacto .btn.btn-primary.contacto {
-  width: 150px;
-}
-.col.contacto .btn.btn-primary.contacto:hover {
-  background-color: #4C9FE6;
 }
 .col.contacto .textoContacto {
   font-size: 25px;
@@ -452,6 +448,24 @@
 @media (max-width: 483px) {
   .col.contacto {
     margin-top: 20px;
+  }
+  .col.contacto .fa-solid.fa-phone.contacto {
+    font-size: px;
+  }
+  .col.contacto .telefonoContactoPrimario {
+    font-size: 35px;
+  }
+  .col.contacto .far.fa-envelope.contacto {
+    font-size: 25px;
+  }
+  .col.contacto .correoContactoPrimario {
+    font-size: 35px;
+  }
+  .col.contacto .bi.bi-geo-alt {
+    font-size: 20px;
+  }
+  .col.contacto .textoContacto {
+    font-size: 25px;
   }
 }
 .informacionpersonal {

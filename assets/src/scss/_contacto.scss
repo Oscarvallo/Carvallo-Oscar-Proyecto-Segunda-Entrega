@@ -25,18 +25,12 @@
         text-decoration: none;
     }
     .bi.bi-geo-alt{
-        width: 35px;
+        width: 35wpx;
         height: 35px;
         margin-left: -20px;
         margin-bottom: 10px;
     }
 
-    .btn.btn-primary.contacto{
-        width: 150px;
-        &:hover{
-        background-color: $colorfiltro;
-        }
-    }
     .textoContacto{
         font-size: 25px;
 
@@ -47,6 +41,26 @@
 @media(max-width:483px){
     .col.contacto{
         margin-top: 20px;
+        .fa-solid.fa-phone.contacto{
+         font-size: px;
+        }
+        .telefonoContactoPrimario{
+            font-size: 35px;
+        }
+        .far.fa-envelope.contacto{
+        font-size: 25px;
+        }
+        .correoContactoPrimario{
+        font-size: 35px;
+        }
+        .bi.bi-geo-alt{
+            font-size: 20px;
+        }
+    
+        .textoContacto{
+            font-size: 25px;
+    
+        }
     }
 }
 

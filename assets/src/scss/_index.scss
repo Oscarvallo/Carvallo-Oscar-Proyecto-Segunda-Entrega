@@ -40,7 +40,8 @@
         
         &:hover{
         transform: scale(1.1);
-      
+        color: $colorprimary;
+        
         }
     
 }
@@ -209,6 +210,7 @@
     }
     .btn.btn-outline-light.btnSecondaryIndexFooter:hover{
         transform: scale(1.1);
+        color: $colorprimary;
     }
 }
 
